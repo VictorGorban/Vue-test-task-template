@@ -10,8 +10,6 @@
 <script>
 import CategoryTableMatrix from '@/components/CategoryTableMatrix'
 
-window.users = JSON.parse(`[{"_id":"118081982","name":"Калмыков Константин Константинович"},{"_id":"122127054","name":"Постоев Юрий Николаевич"},{"_id":"126509124","name":"Федосов Владимир Алексеевич"}]`)
-
 export default {
   components: {
     CategoryTableMatrix,

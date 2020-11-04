@@ -1,5 +1,5 @@
 <template>
-  <div style="position: relative;">
+  <div style="position: relative; max-width: 500px">
     <table class="table table-striped table-bordered category-matrix">
       <thead>
       <tr>

@@ -17,10 +17,6 @@ export default {
   data(){
     return {
       category: null,
-      currentUser: null,
-      currentCell: null,
-      currentOriginalLapIndex: null,
-      currentCellIndex: null
     }
   },
   created(){

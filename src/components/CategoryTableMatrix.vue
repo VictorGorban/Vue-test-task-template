@@ -4,7 +4,6 @@
       <thead>
       <tr>
         <th v-for="(lap, lapIndex) in laps"
-            :class="{'current-lap': lapIndex==currentLapIndex,'next-lap': lapIndex==nextLapIndex}"
         >Круг
           {{ lapIndex + 1 }}
         </th>
